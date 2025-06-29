@@ -71,7 +71,6 @@ interests = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kanishkagrawal1-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkagrawal1)
-[![Email](https://img.shields.io/badge/Email-agrawalkanishk9%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agrawalkanishk9@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Kanishk00001-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanishk00001)
 
 </div>
